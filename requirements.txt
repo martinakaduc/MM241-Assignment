@@ -1,2 +1,8 @@
 gymnasium
 gym_cutting_stock @ git+https://github.com/martinakaduc/gym-cutting-stock
+torch
+torch.nn
+torch.optim
+torch.distributions
+numpy
+matplotlib

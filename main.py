@@ -13,7 +13,6 @@ NUM_EPISODES = 100
 if __name__ == "__main__":
     # Reset the environment
     observation, info = env.reset(seed=42)
-
     # Test GreedyPolicy
     gd_policy = GreedyPolicy()
     ep = 0
