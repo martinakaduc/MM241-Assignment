@@ -1,0 +1,3 @@
+gymnasium
+gym_cutting_stock @ git+https://github.com/martinakaduc/gym-cutting-stock
+numpy==1.26.4
