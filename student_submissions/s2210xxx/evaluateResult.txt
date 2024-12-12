@@ -1,0 +1,290 @@
+Episode 1-----------------------------
+----Greedy Policy----------------
+	N. of products:	 127
+	Total area of products:	 86787
+	N. of stocks:	 23
+	Total area of stocks:	 125964
+	Reward:	 1
+	Time:	 44.00s
+----Random Policy----------------
+	N. of products:	 127
+	Total area of products:	 86787
+	N. of stocks:	 85
+	Total area of stocks:	 500463
+	Reward:	 1
+	Time:	 28.00s
+----Dynamic Programming Policy---
+	N. of products:	 127
+	Total area of products:	 86787
+	N. of stocks:	 26
+	Total area of stocks:	 103392
+	Reward:	 1
+	Time:	 258.00s
+----First-Fit Decreasing Policy--
+	N. of products:	 127
+	Total area of products:	 86787
+	N. of stocks:	 18
+	Total area of stocks:	 103586
+	Reward:	 1
+	Time:	 78.00s
+Episode 2-----------------------------
+----Greedy Policy----------------
+	N. of products:	 118
+	Total area of products:	 90361
+	N. of stocks:	 22
+	Total area of stocks:	 124488
+	Reward:	 1
+	Time:	 45.00s
+----Random Policy----------------
+	N. of products:	 118
+	Total area of products:	 90361
+	N. of stocks:	 80
+	Total area of stocks:	 434097
+	Reward:	 1
+	Time:	 26.00s
+----Dynamic Programming Policy---
+	N. of products:	 118
+	Total area of products:	 90361
+	N. of stocks:	 29
+	Total area of stocks:	 114479
+	Reward:	 1
+	Time:	 204.00s
+----First-Fit Decreasing Policy--
+	N. of products:	 118
+	Total area of products:	 90361
+	N. of stocks:	 20
+	Total area of stocks:	 112286
+	Reward:	 1
+	Time:	 50.00s
+Episode 3-----------------------------
+----Greedy Policy----------------
+	N. of products:	 146
+	Total area of products:	 142134
+	N. of stocks:	 33
+	Total area of stocks:	 180541
+	Reward:	 1
+	Time:	 102.00s
+----Random Policy----------------
+	N. of products:	 146
+	Total area of products:	 142134
+	N. of stocks:	 93
+	Total area of stocks:	 533881
+	Reward:	 1
+	Time:	 39.00s
+----Dynamic Programming Policy---
+	N. of products:	 146
+	Total area of products:	 142134
+	N. of stocks:	 40
+	Total area of stocks:	 168138
+	Reward:	 1
+	Time:	 393.00s
+----First-Fit Decreasing Policy--
+	N. of products:	 146
+	Total area of products:	 142134
+	N. of stocks:	 28
+	Total area of stocks:	 156246
+	Reward:	 1
+	Time:	 117.00s
+Episode 4-----------------------------
+----Greedy Policy----------------
+	N. of products:	 248
+	Total area of products:	 157910
+	N. of stocks:	 33
+	Total area of stocks:	 181926
+	Reward:	 1
+	Time:	 152.00s
+----Random Policy----------------
+	N. of products:	 248
+	Total area of products:	 157910
+	N. of stocks:	 100
+	Total area of stocks:	 559198
+	Reward:	 1
+	Time:	 65.00s
+----Dynamic Programming Policy---
+	N. of products:	 248
+	Total area of products:	 157910
+	N. of stocks:	 44
+	Total area of stocks:	 179848
+	Reward:	 1
+	Time:	 476.00s
+----First-Fit Decreasing Policy--
+	N. of products:	 248
+	Total area of products:	 157910
+	N. of stocks:	 31
+	Total area of stocks:	 173755
+	Reward:	 1
+	Time:	 226.00s
+Episode 5-----------------------------
+----Greedy Policy----------------
+	N. of products:	 198
+	Total area of products:	 157180
+	N. of stocks:	 33
+	Total area of stocks:	 182657
+	Reward:	 1
+	Time:	 133.00s
+----Random Policy----------------
+	N. of products:	 198
+	Total area of products:	 157180
+	N. of stocks:	 99
+	Total area of stocks:	 574610
+	Reward:	 1
+	Time:	 61.00s
+----Dynamic Programming Policy---
+	N. of products:	 198
+	Total area of products:	 157180
+	N. of stocks:	 41
+	Total area of stocks:	 180876
+	Reward:	 1
+	Time:	 460.00s
+----First-Fit Decreasing Policy--
+	N. of products:	 198
+	Total area of products:	 157180
+	N. of stocks:	 32
+	Total area of stocks:	 174922
+	Reward:	 1
+	Time:	 164.00s
+Episode 6-----------------------------
+----Greedy Policy----------------
+	N. of products:	 247
+	Total area of products:	 188213
+	N. of stocks:	 44
+	Total area of stocks:	 236994
+	Reward:	 1
+	Time:	 167.00s
+----Random Policy----------------
+	N. of products:	 247
+	Total area of products:	 188213
+	N. of stocks:	 100
+	Total area of stocks:	 574324
+	Reward:	 1
+	Time:	 74.00s
+----Dynamic Programming Policy---
+	N. of products:	 247
+	Total area of products:	 188213
+	N. of stocks:	 48
+	Total area of stocks:	 209435
+	Reward:	 1
+	Time:	 476.00s
+----First-Fit Decreasing Policy--
+	N. of products:	 247
+	Total area of products:	 188213
+	N. of stocks:	 40
+	Total area of stocks:	 211694
+	Reward:	 1
+	Time:	 259.00s
+Episode 7-----------------------------
+----Greedy Policy----------------
+	N. of products:	 95
+	Total area of products:	 47820
+	N. of stocks:	 11
+	Total area of stocks:	 58247
+	Reward:	 1
+	Time:	 29.00s
+----Random Policy----------------
+	N. of products:	 95
+	Total area of products:	 47820
+	N. of stocks:	 64
+	Total area of stocks:	 372229
+	Reward:	 1
+	Time:	 19.00s
+----Dynamic Programming Policy---
+	N. of products:	 95
+	Total area of products:	 47820
+	N. of stocks:	 16
+	Total area of stocks:	 55630
+	Reward:	 1
+	Time:	 294.00s
+----First-Fit Decreasing Policy--
+	N. of products:	 95
+	Total area of products:	 47820
+	N. of stocks:	 11
+	Total area of stocks:	 58247
+	Reward:	 1
+	Time:	 37.00s
+Episode 8-----------------------------
+----Greedy Policy----------------
+	N. of products:	 223
+	Total area of products:	 146813
+	N. of stocks:	 29
+	Total area of stocks:	 172290
+	Reward:	 1
+	Time:	 142.00s
+----Random Policy----------------
+	N. of products:	 223
+	Total area of products:	 146813
+	N. of stocks:	 100
+	Total area of stocks:	 591063
+	Reward:	 1
+	Time:	 57.00s
+----Dynamic Programming Policy---
+	N. of products:	 223
+	Total area of products:	 146813
+	N. of stocks:	 39
+	Total area of stocks:	 162600
+	Reward:	 1
+	Time:	 486.00s
+----First-Fit Decreasing Policy--
+	N. of products:	 223
+	Total area of products:	 146813
+	N. of stocks:	 27
+	Total area of stocks:	 160767
+	Reward:	 1
+	Time:	 185.00s
+Episode 9-----------------------------
+----Greedy Policy----------------
+	N. of products:	 157
+	Total area of products:	 111497
+	N. of stocks:	 22
+	Total area of stocks:	 137219
+	Reward:	 1
+	Time:	 96.00s
+----Random Policy----------------
+	N. of products:	 157
+	Total area of products:	 111497
+	N. of stocks:	 85
+	Total area of stocks:	 479240
+	Reward:	 1
+	Time:	 39.00s
+----Dynamic Programming Policy---
+	N. of products:	 157
+	Total area of products:	 111497
+	N. of stocks:	 33
+	Total area of stocks:	 130277
+	Reward:	 1
+	Time:	 405.00s
+----First-Fit Decreasing Policy--
+	N. of products:	 157
+	Total area of products:	 111497
+	N. of stocks:	 20
+	Total area of stocks:	 120971
+	Reward:	 1
+	Time:	 120.00s
+Episode 10-----------------------------
+----Greedy Policy----------------
+	N. of products:	 207
+	Total area of products:	 92859
+	N. of stocks:	 22
+	Total area of stocks:	 106250
+	Reward:	 1
+	Time:	 104.00s
+----Random Policy----------------
+	N. of products:	 207
+	Total area of products:	 92859
+	N. of stocks:	 93
+	Total area of stocks:	 504380
+	Reward:	 1
+	Time:	 48.00s
+----Dynamic Programming Policy---
+	N. of products:	 207
+	Total area of products:	 92859
+	N. of stocks:	 27
+	Total area of stocks:	 98347
+	Reward:	 1
+	Time:	 512.00s
+----First-Fit Decreasing Policy--
+	N. of products:	 207
+	Total area of products:	 92859
+	N. of stocks:	 20
+	Total area of stocks:	 97626
+	Reward:	 1
+	Time:	 145.00s
